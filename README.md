@@ -20,7 +20,7 @@ A simulated blockchain cryptocurrency implementation with P2P networking, wallet
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/botcoin.git
+   git clone https://github.com/ahsannadir/botcoin.git
    cd botcoin
    ```
 
